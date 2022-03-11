@@ -94,5 +94,5 @@ else:
 	print(realRegionalCenterPretty)
 	print(centerName)
 
-driver.close()
+#driver.close()
 
